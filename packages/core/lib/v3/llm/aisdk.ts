@@ -188,7 +188,7 @@ You must respond in JSON format. respond WITH JSON. Do not include any other tex
                     ? "medium"
                     : usesLowReasoningEffort
                       ? "low"
-                      : "minimal",
+                      : "none",
                 },
               }
             : undefined,
